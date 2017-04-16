@@ -1,0 +1,14 @@
+* { maigin: 0; padding: 0; }
+/*动物卡片*/
+#animal-card { width: 300px; border: 1px solid #747474; box-shadow:  9px 10px 0px 1px #C9C9C9; font-size: 16px; padding: 0 15px 15px 15px; font-family: "Georgia" }
+/*动物图片*/
+.animal { width: 300px; border: 1px solid #747474; margin-bottom: 10px; }
+/*标题*/
+.title { font-size:34px; font-weight: bolder; }
+/*内容*/
+.content { width: 280px; text-align: left; border: 1px solid #747474; margin: 10px 0; padding: 10px; }
+/*开场白*/
+.begin { font-style: italic; }
+/*特征*/
+li { list-style: none; }
+.feature { font-weight: bold; }
